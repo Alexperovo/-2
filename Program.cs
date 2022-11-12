@@ -11,4 +11,8 @@ if (num > num1)
     Console.Write ("Большее число ");
     Console.Write(num);
 }
-
+else if (num < num1)
+{
+    Console.Write ("Большее число ");
+    Console.Write(num1);
+}
